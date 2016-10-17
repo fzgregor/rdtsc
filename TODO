@@ -1,0 +1,1 @@
+ - maybe rdtscp is the better function - returns cpu id and prevents reordering AFAIK
