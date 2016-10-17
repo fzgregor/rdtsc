@@ -5,7 +5,7 @@
 // based on https://aufather.wordpress.com/2010/09/08/high-performance-time-measuremen-in-linux/
 
 #ifndef RDTSC_H_GUARD
-#define RDRSC_H_GUARD
+#define RDTSC_H_GUARD
 
 uint64_t rdtsc() {
     unsigned int a, d;
